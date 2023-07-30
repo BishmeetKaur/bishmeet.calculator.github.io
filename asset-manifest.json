@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bishmeet.calculator.github.io/static/css/main.5f051d6a.css",
+    "main.js": "/bishmeet.calculator.github.io/static/js/main.a7bfba21.js",
+    "static/js/787.a174f9e5.chunk.js": "/bishmeet.calculator.github.io/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/bishmeet.calculator.github.io/index.html",
+    "main.5f051d6a.css.map": "/bishmeet.calculator.github.io/static/css/main.5f051d6a.css.map",
+    "main.a7bfba21.js.map": "/bishmeet.calculator.github.io/static/js/main.a7bfba21.js.map",
+    "787.a174f9e5.chunk.js.map": "/bishmeet.calculator.github.io/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f051d6a.css",
+    "static/js/main.a7bfba21.js"
+  ]
+}
